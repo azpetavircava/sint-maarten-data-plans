@@ -63,3 +63,10 @@ layout: default
     *   *缺点：* 办理点相对实体卡少，对手机型号要求严格（较新款的iPhone/安卓旗舰）。
 *   **国际旅行eSIM 服务商：**
     *
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Sint Maarten SIM 卡购买与激活指南](https://faciylike.github.io/sint-maarten-sim-guides)
